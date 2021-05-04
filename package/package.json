@@ -69,7 +69,7 @@
   "dependencies": {
     "@babel/runtime": "^7.5.5",
     "dayjs": "^1.8.13",
-    "eslint-plugin-json": "^1.4.0",
+    "eslint-plugin-json": "^3.0.0",
     "fs": "^0.0.2",
     "is-valid-path": "^0.1.1",
     "lodash": "^4.17.15",
